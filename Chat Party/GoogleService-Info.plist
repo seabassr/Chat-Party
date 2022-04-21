@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>976720702091-um21oq530u0tndeg355qv9a6p3qj9ibu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.976720702091-um21oq530u0tndeg355qv9a6p3qj9ibu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCLQaXRfjlvQC0_g4GVCWwOZRAsDHCx0sU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>976720702091</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sebastain-Rodriguez.Chat-Party</string>
+	<key>PROJECT_ID</key>
+	<string>chat-party-dbc02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-party-dbc02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:976720702091:ios:b2fa5b6697b40b05c9828e</string>
+</dict>
+</plist>
