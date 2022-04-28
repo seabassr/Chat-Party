@@ -43,7 +43,7 @@ have a unique 6 digit code, which will allow other users to join.
 1. Go to Chat-Party project (TOP OF SIDE BAR, WITH APP STORE ICON)
 2. Go to package dependencies
 
-<img src="/Demo/Setup/package1.png" width="1532" height="500">
+<img src="/Demo/Setup/package1.png" width="1226" height="400">
 
 3. Click firebase-ios-sdk
 4. Click negative symbol
