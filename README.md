@@ -9,9 +9,7 @@ profile with preset profile emojis and colors, which are used in the chat sessio
 have a unique 6 digit code, which will allow other users to join.
 
 <img src="/Demo/App/home.png" width="294" height="600"> <img src="/Demo/App/profile.png" width="294" height="600">
-
 <img src="/Demo/App/server.png" width="294" height="600"> <img src="/Demo/App/start.png" width="294" height="600">
-
-<img src="/Demo/App/chat.png" width="646" height="600"> <img src="/Demo/App/chat-server.png" width="780" height="600">
-
+<img src="/Demo/App/chat.png" width="646" height="600">
+<img src="/Demo/App/chat-server.png" width="780" height="600">
 <img src="/Demo/App/leave.png" width="294" height="600">
