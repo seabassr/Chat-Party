@@ -16,7 +16,7 @@ have a unique 6 digit code, which will allow other users to join.
 
 ## Requirements
 - XCode 13
-- iOS 15.3
+- iOS 15.3.1
 - Internet connection
 - Firebase account
 
